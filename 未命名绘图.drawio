@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T16:37:56.012Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pgVRRFwoIcVBdmM4XjSG" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T16:47:06.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K-shcR7j1SDHwhZPYKvx" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1363" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1468" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Museum" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-410" width="250" height="220" as="geometry" />
+          <mxGeometry x="1430" y="-320" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -373,7 +373,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eNxaeH0diOcD9y4UHG9M-31" value="Borrowed Art Object" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-410" width="380" height="190" as="geometry" />
+          <mxGeometry x="980" y="-320" width="380" height="190" as="geometry" />
         </mxCell>
         <mxCell id="eNxaeH0diOcD9y4UHG9M-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="eNxaeH0diOcD9y4UHG9M-31">
           <mxGeometry y="30" width="380" height="30" as="geometry" />
@@ -409,7 +409,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNxaeH0diOcD9y4UHG9M-40" value="BorrowingMuseumID (Foreign Key, references Museum)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="eNxaeH0diOcD9y4UHG9M-38">
+        <mxCell id="eNxaeH0diOcD9y4UHG9M-40" value="(Borrowing)MuseumID (Foreign Key, references Museum)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="eNxaeH0diOcD9y4UHG9M-38">
           <mxGeometry x="30" width="350" height="30" as="geometry">
             <mxRectangle width="350" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -441,7 +441,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eNxaeH0diOcD9y4UHG9M-41" value="Exhibition Art Object" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="110" width="330" height="130" as="geometry" />
+          <mxGeometry x="820" y="50" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eNxaeH0diOcD9y4UHG9M-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="eNxaeH0diOcD9y4UHG9M-41">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -690,6 +690,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eNxaeH0diOcD9y4UHG9M-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;curved=1;" edge="1" parent="1" source="eNxaeH0diOcD9y4UHG9M-22" target="eNxaeH0diOcD9y4UHG9M-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNxaeH0diOcD9y4UHG9M-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;curved=1;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="eNxaeH0diOcD9y4UHG9M-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
