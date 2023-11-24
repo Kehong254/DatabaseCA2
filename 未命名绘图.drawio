@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T23:28:05.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4u2KFt9675rWnZYMXJn_" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T01:24:02.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XDHXhIVOBdB_yxtPWVEv" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3056" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1910" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -616,7 +616,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-1" value="painting" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="-430" width="250" height="100" as="geometry" />
+          <mxGeometry x="870" y="-200" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qDmZYa_Y3bKFvDpm71bA-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -645,7 +645,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-11" value="Sculpture Statue" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="-310" width="250" height="159.99999999999977" as="geometry" />
+          <mxGeometry x="590" y="-200" width="250" height="159.99999999999977" as="geometry" />
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qDmZYa_Y3bKFvDpm71bA-11" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -700,7 +700,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-27" value="Other" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="-130" width="250" height="100" as="geometry" />
+          <mxGeometry x="310" y="-200" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qDmZYa_Y3bKFvDpm71bA-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qDmZYa_Y3bKFvDpm71bA-27" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -825,15 +825,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qOXCKmXxxLHuP4dIgvl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3qOXCKmXxxLHuP4dIgvl-1" target="eNxaeH0diOcD9y4UHG9M-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3qOXCKmXxxLHuP4dIgvl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDmZYa_Y3bKFvDpm71bA-5" target="eNxaeH0diOcD9y4UHG9M-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3qOXCKmXxxLHuP4dIgvl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDmZYa_Y3bKFvDpm71bA-15" target="eNxaeH0diOcD9y4UHG9M-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3qOXCKmXxxLHuP4dIgvl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDmZYa_Y3bKFvDpm71bA-28" target="eNxaeH0diOcD9y4UHG9M-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qOXCKmXxxLHuP4dIgvl-16" value="ArtFriendsCircle" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
